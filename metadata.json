@@ -1,0 +1,11 @@
+{
+  "name": "LingoLens AI",
+  "description": "Real-time multilingual image identification using Gemini AI. Capture images to see names in Arabic, English, and French.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "vision",
+    "multilingual"
+  ]
+}
